@@ -1,3 +1,4 @@
+#Here you will find the terraform block which specifies the required provider version and required Terraform version for this configuration.
 terraform {
   /* Uncomment this block to use Terraform Cloud for this tutorial
   cloud {
